@@ -2,7 +2,7 @@
 x = int(input("Digite um valor: "))
 n = 1
 while (n<10):
-    print(x,'x',n,'=',n*x)
+    print(x,'X',n,'=',n*x)
     n = n + 1
     
 ## segunda questao
