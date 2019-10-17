@@ -1,5 +1,5 @@
 ## primeira questao
-x = int(input("Digite um valor: "))
+x = int(input("Digite um valor: "))               *Na hora de enviar no the huxley lembre de deixar input vazio, x = int(input())
 n = 1
 while (n<10):
     print(x,'x',n,'=',n*x)
