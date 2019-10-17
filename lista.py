@@ -17,7 +17,7 @@ print('Sua média é: {:.1f}'.format(media))
 A = float(input("Digite a primeira nota: "))
 B = float(input("Digite a segunda: "))
 media = ((A*3.5)+(B*7.5))/2
-print('media = {:5f}'.format(media))
+print('media = {:.5f}'.format(media))
 
 ##quarta questao
 srt = int(input('try your luck:'))
