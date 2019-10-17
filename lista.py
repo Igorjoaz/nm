@@ -1,5 +1,5 @@
 ## primeira questao
-x = int(input("Digite um valor: "))
+x = int(input("Digite um valor: "))                       porraaaaaaaaaaaaaaaaaa
 n = 1
 while (n<10):
     print(x,'x',n,'=',n*x)
