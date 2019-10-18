@@ -1,6 +1,6 @@
 ## primeira questao
 x = int(input("Digite um valor: "))
-n = 1
+n = 1                                        eae mofiu 
 while (n<10):
     print(x,'X',n,'=',n*x)
     n = n + 1
