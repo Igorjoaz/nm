@@ -1,5 +1,5 @@
 ## primeira questao
-x = int(input("Digite um valor: "))      ISWDFEWFPHWQEFQWFPQEWFWQEFO FILHA DA PUTA 
+x = int(input("Digite um valor: "))
 n = 1
 while (n<10):
     print(x,'X',n,'=',n*x)
