@@ -1,4 +1,4 @@
-## primeira questao
+## primeira questao   eae 
 x = int(input("Digite um valor: "))
 n = 1
 while (n<10):
